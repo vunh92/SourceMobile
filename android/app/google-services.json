@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224082707145",
+    "project_id": "cooler-mdlz",
+    "storage_bucket": "cooler-mdlz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224082707145:android:026d47646e76ae53ef0318",
+        "android_client_info": {
+          "package_name": "com.modelez.cooler_mdlz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224082707145-b66pd4dmspdaqmfn9pf6bplvtp67busj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tDN0KtEwxXy14ywP5C8JzbX_cRliCxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224082707145-b66pd4dmspdaqmfn9pf6bplvtp67busj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
